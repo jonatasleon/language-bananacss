@@ -1,5 +1,5 @@
 {
-  "name": "language-banana",
+  "name": "language-bananacss",
   "version": "0.0.0",
   "description": "BananaCSS support in Atom",
   "main": "index.js",
