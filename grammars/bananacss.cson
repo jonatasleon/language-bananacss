@@ -1,3 +1,12 @@
-'scopeName': 'source.bananacss'
+'scopeName': '.source.bananacss'
 'name': 'BananaCSS'
 'fileTypes': ['bnn']
+'patterns': [
+  {
+    'include': 'source.css'
+  }
+  {
+    'match': '^(\\s*|(?:(@)mixin))\\s+([a-zA-Z0-9_-]+)'
+    'name': 'keyword.control.function.bananacss'
+  }
+]
