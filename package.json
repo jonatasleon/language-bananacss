@@ -1,0 +1,24 @@
+{
+  "name": "language-banana",
+  "version": "0.0.0",
+  "description": "BananaCSS support in Atom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonatasleon/language-banana.git"
+  },
+  "keywords": [
+    "banana",
+    "bananacss",
+    "css"
+  ],
+  "author": "Jonatas Leon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonatasleon/language-banana/issues"
+  },
+  "homepage": "https://github.com/jonatasleon/language-banana#readme"
+}
